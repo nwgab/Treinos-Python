@@ -47,5 +47,4 @@ while True:
             resultado= firstnumero / secondnumero
             print(f"Esse é o resultado {resultado}")
             break
-    
-#versão 2
+    #fase 2
