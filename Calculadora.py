@@ -48,3 +48,4 @@ while True:
             print(f"Esse é o resultado {resultado}")
             break
     
+#versão 2
