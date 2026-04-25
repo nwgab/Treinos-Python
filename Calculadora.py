@@ -59,4 +59,4 @@ while True:
         except:
             ValueError
             print(f"Escolha uma opção valida sem espaços vazios, enter")
-        
+
