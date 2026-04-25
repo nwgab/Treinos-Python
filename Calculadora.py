@@ -60,4 +60,4 @@ while True:
             ValueError
             print(f"Escolha uma opção valida sem espaços vazios, enter")
         
-    
+    #fase 2
